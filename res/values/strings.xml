@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startbutton">start capture</string>
+    <string name="stopbutton">stop capture</string>
+    <string name="exitbutton">exit</string>
+    <string name="app_name">DumpCapture</string>
+    <string name="notice">Attention</string>
+    <string name="Message">sure to exit?</string>
+    <string name="toast_service_start">service start</string>
+    <string name="service_start">service start, press stop for finish</string>
+    <string name="toast_service_stop">service stop, cap file has been saved!</string>
+    <string name="toast_save_complete">start to capture cap</string>
+    <string name="service_stop">service stop, press start to restart!</string>
+
+</resources>
